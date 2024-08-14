@@ -26,7 +26,7 @@
 
 <a name="0"></a>
 ## 0. Start with the template theme
-You can find the theme files for the default theme [here](https://github.com/npaymelabs/npayme-oneline-themes/tree/main/onelink-default-theme).
+You can find the theme files for the default theme [here](https://github.com/npaymelabs/npayme-onelink-themes/tree/main/onelink-default-theme).
 
 <br>
 
