@@ -110,7 +110,7 @@ Down below, you can find a few examples using this function:
 
 ### 1.5 Add custom icons
 
-You can download all the icons used for the buttons from [here](https://github.com/npaymelabs/npayme-onelink-themes/main/tree/icons).
+You can download all the icons used for the buttons from [here](https://github.com/npaymelabs/npayme-onelink-themes/tree/main/icons).
 
 For custom icons to apply you have to enable them in the config first.
 
