@@ -25,8 +25,8 @@
 <br>
 
 <a name="0"></a>
-## 0. Fork the template repository
-Make a fork of this [template repository](https://github.com/LinkStackOrg/linkstack-default-theme). Here you can find the theme files for the default theme.
+## 0. Start with the template theme
+You can find the theme files for the default theme [here](https://github.com/npaymelabs/npayme-oneline-themes/tree/main/onelink-default-theme).
 
 <br>
 
@@ -90,7 +90,7 @@ Custom assets can be any file you would like to use in your theme.
 For example: JS, CSS or image files.
 
 You can load these custom assets with a built-in function, 'themeAsset()'.
-Add the file you want to add to your 'custom-assets' folder, and include the name with the file extension in the function.
+Add the file you want to add to your 'custom-assets' folder, and include the name with the file extension in the function.
 
 For this the file and custom code have to be enabled in the config.php
 
