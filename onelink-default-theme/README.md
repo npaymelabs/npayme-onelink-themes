@@ -1,5 +1,4 @@
-# A LinkStack Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# A OneLink Theme
                                                                                                                                                                          
 *	Theme Name: ThemeName
 *	Theme Version: 1.0
